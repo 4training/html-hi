@@ -10,12 +10,6 @@
             "pdf": "\u092c\u092a\u0924\u093f\u0938\u094d\u092e\u093e.pdf"
         },
         {
-            "page": "Prayer",
-            "title": "\u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u093e",
-            "filename": "\u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u093e.html",
-            "version": "1.1"
-        },
-        {
             "page": "Forgiving_Step_by_Step",
             "title": "\u0915\u0926\u092e \u0926\u0930 \u0915\u0926\u092e \u0915\u094d\u0937\u092e\u093e \u0915\u0930\u0928\u093e",
             "filename": "\u0915\u0926\u092e_\u0926\u0930_\u0915\u0926\u092e_\u0915\u094d\u0937\u092e\u093e_\u0915\u0930\u0928\u093e.html",
@@ -28,24 +22,6 @@
             "filename": "\u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930_\u0915\u0947_\u0938\u093e\u0925_\u0915\u093e_\u0938\u092e\u092f.html",
             "version": "\u0967.\u0968",
             "pdf": "\u092a\u0930\u092e\u0947\u0936\u094d\u0935\u0930_\u0915\u0947_\u0938\u093e\u0925_\u0915\u093e_\u0938\u092e\u092f.pdf"
-        },
-        {
-            "page": "Bible_Reading_Hints",
-            "title": "\u092c\u093e\u0907\u092c\u093f\u0932 \u092a\u0922\u093c\u0928\u0947 \u0939\u0947\u0924\u0941 \u0938\u0939\u093e\u092f\u0915-\u092c\u093f\u0902\u0926\u0941",
-            "filename": "\u092c\u093e\u0907\u092c\u093f\u0932_\u092a\u0922\u093c\u0928\u0947_\u0939\u0947\u0924\u0941_\u0938\u0939\u093e\u092f\u0915-\u092c\u093f\u0902\u0926\u0941.html",
-            "version": "2.0"
-        },
-        {
-            "page": "The_Three-Thirds_Process",
-            "title": "\u0924\u0940\u0928-\u0924\u093f\u0939\u093e\u0908-\u092a\u094d\u0930\u0923\u093e\u0932\u0940",
-            "filename": "\u0924\u0940\u0928-\u0924\u093f\u0939\u093e\u0908-\u092a\u094d\u0930\u0923\u093e\u0932\u0940.html",
-            "version": "1.0"
-        },
-        {
-            "page": "A_Daily_Prayer",
-            "title": "\u090f\u0915 \u0926\u0948\u0928\u093f\u0915 \u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u093e",
-            "filename": "\u090f\u0915_\u0926\u0948\u0928\u093f\u0915_\u092a\u094d\u0930\u093e\u0930\u094d\u0925\u0928\u093e.html",
-            "version": "1.0"
         }
     ]
 }
